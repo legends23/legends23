@@ -2,6 +2,7 @@
 
  ##
  
+ ### 🐍 Estatisticas do meu Github🐍<h3>
   ![Snake animation](https://github.com/legends23/legends23/blob/output/github-contribution-grid-snake.svg)
  
 
