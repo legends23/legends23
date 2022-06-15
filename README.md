@@ -5,8 +5,8 @@
   
 ### REDES SOCIAIS <h3>
   <div>
- <a href="" target="_blank"> <img src=""target="_ blank"></a>
- <a href="" target="_blank"> <img src=""target="_ blank"></a>
+ <a href="" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"target="_ blank"></a>
+ <a href="" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"target="_ blank"></a>
  <a href="" target="_blank"> <img src=""target="_ blank"></a>
  <a href="" target="_blank"> <img src=""target="_ blank"></a>
  <div/>
